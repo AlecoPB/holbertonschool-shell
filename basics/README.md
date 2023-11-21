@@ -7,3 +7,4 @@
 6-firstdirectory creates a directory names my_first_directory on /tmp
 7-movethatfile moves a file from tmp to my_first_directory
 8-firstdelete deletes a file from /tmp/my_first_directory
+9-firstdirdeletion deletes /tmp/my_first_directory
