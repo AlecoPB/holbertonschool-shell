@@ -8,3 +8,4 @@
 7-movethatfile moves a file from tmp to my_first_directory
 8-firstdelete deletes a file from /tmp/my_first_directory
 9-firstdirdeletion deletes /tmp/my_first_directory
+10-back goes to the previous directory
